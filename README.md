@@ -18,6 +18,6 @@
 </div>
 ##### jogo da cobrinha
 <div align="center">
-  <img src="https://github.com/SEU-NOME-DE-USUARIO-AQUI/SEU-NOME-DE-USUARIO-AQUI/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/andreygiordane/andreygiordane/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
 
