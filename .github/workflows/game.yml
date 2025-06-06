@@ -1,26 +1,37 @@
-name: Generate Datas
+# Nome do Workflow da GitHub Action
+name: Generate Snake Animation
 
+# Controles de quando a Action será executada
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
+# Tarefas que a Action vai executar
 jobs:
   build:
-    name: Jobs to update datas
+    # A LINHA ABAIXO É A MUDANÇA IMPORTANTE
+    permissions:
+      contents: write # Concede permissão para a Action escrever no repositório
+    
     runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: andreygiordane
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v4
+    steps:
+      # Passo 1: Usa uma Action pré-pronta chamada 'platane/snk'
+      - name: Generate Snake
+        uses: platane/snk@v3
         with:
-          target_branch: output
+          # ID do seu usuário do GitHub. O ${{ github.repository_owner }} pega automaticamente.
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Lista de saídas que serão geradas.
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
+
+      # Passo 2: Envia o arquivo gerado para o repositório
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output # O nome da branch onde a imagem será salva
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
