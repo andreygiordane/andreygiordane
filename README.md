@@ -1,5 +1,8 @@
 ## Seja bem-vindo!! Eu sou a Andrey Giordane, Aspirante a futuro Dev Front-End!
 
+👨‍🎓 - Estudante de Análise e desenvolvimento de sistemas;
+💻 - Apaixonado por tecnologia e desenvolvimento;
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
