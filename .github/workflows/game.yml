@@ -25,7 +25,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           
           # Lista de saídas que serão geradas.
-          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Passo 2: Envia o arquivo gerado para o repositório
       - name: Push to Output Branch

@@ -1,298 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:0c0a2e,80:12063a,100:0d1117&height=200&section=header&text=ANDREY%20GIORDANE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Developer%20%C2%B7%20ADS%20%C2%B7%20Akazure&descSize=16&descAlignY=72&descColor=9d71fb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a2e,50:4c1d95,100:9d71fb&height=210&section=header&text=Andrey%20Giordane&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Desktop%20%C2%B7%20Mobile&descSize=18&descAlignY=58&descColor=e9d5ff&animation=fadeIn" width="100%" alt="Andrey Giordane"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=9D71FB&center=true&vCenter=true&width=720&height=40&lines=Sistemas+completos%2C+do+banco+de+dados+%C3%A0+interface;React+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+Node.js;WebRTC+e+Socket.IO+para+comunica%C3%A7%C3%A3o+em+tempo+real;Apps+desktop+para+Windows+e+Android+com+Kotlin" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=9D71FB&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Construindo+o+ecossistema+Hubify+WorkSpace+do+zero;JavaScript+%7C+TypeScript+%7C+Java+%7C+Spring+Boot;Comunicacao+em+tempo+real+com+WebRTC+e+Socket.io;APIs+REST+com+Spring+Boot+3+e+PostgreSQL;Transformando+ideias+em+produtos+funcionais" alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/andreygiordane">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>&nbsp;
-<a href="https://github.com/andreygiordane">
-  <img src="https://img.shields.io/badge/GitHub-9d71fb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>&nbsp;
-<a href="https://andreygiordane.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-ff6b6b?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=andreygiordane&style=for-the-badge&color=9d71fb&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/andreygiordane?style=for-the-badge&color=9d71fb&labelColor=0d1117&label=FOLLOWERS"/>
+<a href="https://linkedin.com/in/andreygiordane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://andreygiordane.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-9d71fb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
+<a href="https://github.com/andreygiordane?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## Sobre mim
+
+Sou desenvolvedor full-stack e estudante de **Análise e Desenvolvimento de Sistemas**. Gosto de construir software que resolve problemas reais de ponta a ponta: modelar o banco, escrever a API, desenhar a interface e entregar algo que roda — seja no navegador, no Windows ou no Android.
+
+- 🛠️ Hoje trabalho em um **ERP modular** usado na rede interna de uma clínica e na suíte **WinShield Pro** para Windows
+- 📱 Desenvolvendo o **Lê+**, leitor de ebooks para Android com narração offline
+- 📡 Interesse especial em **comunicação em tempo real** (WebRTC, Socket.IO) e **arquitetura de backend** (DDD, Spring Boot)
+- 🤝 Aberto a oportunidades, colaborações e revisão de código
 
 <br/>
 
-## Sobre Mim
+## Tecnologias
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-```typescript
-const akazure = {
-  nome:      "Andrey Giordane",
-  formação:  "Análise e Desenv. de Sistemas",
-  foco:      "Full-Stack Developer",
-
-  domínio: {
-    linguagens: ["JavaScript", "TypeScript", "Java"],
-    frontend:   ["React.js", "Vite", "HTML5/CSS3"],
-    backend:    ["Spring Boot 3", "Node.js", "REST APIs"],
-    realtime:   ["WebRTC", "Socket.io", "Electron"],
-    dados:      ["PostgreSQL", "MySQL", "Firebase"],
-    infra:      ["Docker", "Git", "GitHub Actions"],
-  },
-
-  atualmente: "Construindo o Hubify WorkSpace",
-  próximo:    "Entrar no mercado de trabalho",
-};
-```
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-<br/>
-
-> *"Cada repositório é um problema real*
-> *que aprendi a resolver na prática."*
->
-> — Akazure
-
-</td>
-</tr>
+  <tr>
+    <td width="150"><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,py,html,css&theme=dark" alt="Linguagens"/></td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Front-end"/></td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Back-end"/></td>
+  </tr>
+  <tr>
+    <td><b>Desktop &amp; Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=electron,androidstudio,windows&theme=dark" alt="Desktop e Mobile"/></td>
+  </tr>
+  <tr>
+    <td><b>Dados &amp; Mensageria</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,rabbitmq&theme=dark" alt="Dados"/></td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,idea&theme=dark" alt="DevOps"/></td>
+  </tr>
 </table>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## Projeto em destaque
 
-<br/>
+<table>
+  <tr>
+    <td>
 
-## Stack de Tecnologias
+### 🛡️ [WinShield Pro](https://github.com/andreygiordane/WinShieldPro)
 
-<div align="center">
+Suíte de diagnóstico, manutenção e otimização para **Windows 10 e 11**: telemetria de CPU, GPU, RAM e discos (S.M.A.R.T.), central de atualizações com drivers de fontes oficiais, benchmark e testes de estabilidade, ferramentas de suporte técnico para pré-formatação e relatórios em TXT/HTML. Executável portátil, funciona offline.
 
-<br/>
+<img src="https://github.com/user-attachments/assets/1097f47e-018d-4239-b619-3265c4ed45ce" width="100%" alt="Dashboard do WinShield Pro"/>
 
-**Linguagens — onde passo a maior parte do tempo**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css&theme=dark&perline=5"/>
-
-<br/>
-
-| Tecnologia | Nível | Uso nos Projetos |
-|:----------:|:-----:|:----------------|
-| JavaScript | Avançado | Hubify, VeloDesk, Gestão Financeira — lógica de aplicação completa |
-| TypeScript | Intermediário | Solve-Chamados — tipagem estática em toda a aplicação |
-| Java | Intermediário | contas-pagar-api — backend REST com Spring Boot 3 |
-| HTML / CSS | Avançado | Todos os frontends — estrutura, animações e layout |
-
-<br/>
-
-**Frameworks & Runtimes**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,spring,nodejs,express,vite,electron&theme=dark&perline=6"/>
-
-<br/>
-
-**Banco de Dados & Infra**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,docker,git,github&theme=dark&perline=6"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## Projetos — Hubify WorkSpace Ecosystem
-
-> Um ecossistema de produtividade e comunicação construído do zero.
-> Cada projeto resolve um problema real e se integra aos outros.
-
-<br/>
-
----
-
-### Hubify — Plataforma de Comunicação em Tempo Real
-
-[![hubify](https://github-readme-stats.vercel.app/api/pin/?username=andreygiordane&repo=hubify&theme=transparent&bg_color=0d0d1a&title_color=9d71fb&text_color=c4b5fd&icon_color=9d71fb&border_color=9d71fb40&border_radius=12)](https://github.com/andreygiordane/hubify)
-
-**O que resolve:** A necessidade de uma plataforma própria e auto-hospedada para comunicação de equipes, sem depender de serviços externos pagos.
-
-**Como funciona:**
-- Frontend em **React.js** se conecta a um servidor **Node.js + Socket.io** para mensagens em tempo real
-- Chamadas de vídeo peer-to-peer via **WebRTC** com servidor de sinalização dedicado
-- Containerizado com **Docker** e **Docker Compose** para deploy em qualquer ambiente
-- Suporte a múltiplas salas simultâneas com gerenciamento de participantes
-
-**Stack completa:**
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![WebView2](https://img.shields.io/badge/WebView2-0078D4?style=flat-square&logo=microsoftedge&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10%20%7C%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)
+&nbsp;&nbsp;
+<a href="https://github.com/andreygiordane/WinShieldPro/releases/latest"><img src="https://img.shields.io/github/v/release/andreygiordane/WinShieldPro?style=flat-square&label=download&color=9d71fb" alt="Última versão"/></a>
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
+## Outros projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 💬 [Hubify Workspace](https://github.com/andreygiordane/hubify)
+
+Plataforma de comunicação corporativa auto-hospedável: chat em tempo real, videoconferência e chamadas de áudio via WebRTC, compartilhamento de tela, grupos e agenda de reuniões. Sobe inteira com `docker compose up`.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+  </td>
+    <td width="50%" valign="top">
 
-### VeloDesk — Controle Remoto Cross-Platform
+#### 🎫 [Solve Chamados](https://github.com/andreygiordane/solve-chamados)
 
-[![VeloDesk](https://github-readme-stats.vercel.app/api/pin/?username=andreygiordane&repo=VeloDesk&theme=transparent&bg_color=0d0d1a&title_color=9d71fb&text_color=c4b5fd&icon_color=9d71fb&border_color=9d71fb40&border_radius=12)](https://github.com/andreygiordane/VeloDesk)
-
-**O que resolve:** Controle remoto de desktops sem depender de softwares de terceiros como TeamViewer ou AnyDesk.
-
-**Como funciona:**
-- Aplicação desktop construída com **Electron** — roda nativamente no Windows, Linux e macOS
-- Transmissão de tela via **WebRTC** com captura em tempo real do display
-- Comunicação de mouse e teclado remoto via canal de dados do WebRTC
-- Servidor de sinalização compartilhado com o ecossistema Hubify
-
-**Stack completa:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
----
-
-### Solve-Chamados — Sistema de Gerenciamento de Suporte
-
-[![solve-chamados](https://github-readme-stats.vercel.app/api/pin/?username=andreygiordane&repo=solve-chamados&theme=transparent&bg_color=0d0d1a&title_color=9d71fb&text_color=c4b5fd&icon_color=9d71fb&border_color=9d71fb40&border_radius=12)](https://github.com/andreygiordane/solve-chamados)
-
-**O que resolve:** O gerenciamento manual e desorganizado de chamados técnicos em equipes de TI e suporte.
-
-**Como funciona:**
-- Frontend em **TypeScript** com sistema de autenticação completo por perfis (admin / técnico / usuário)
-- Fluxo de chamados com status, prioridade, histórico e atribuição de responsáveis
-- Interface moderna com design responsivo e feedback em tempo real
-- Controle granular de permissões por nível de acesso
-
-**Stack completa:**
+Portal de help desk para gestão de chamados, ordens de serviço (com layout A4 para impressão) e inventário de equipamentos por empresa. Backend em Node.js com **DDD** e padrão Repository; frontend SPA em React.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### contas-pagar-api — API REST de Gestão Financeira
+#### 🖥️ [VeloDesk](https://github.com/andreygiordane/VeloDesk)
 
-[![contas-pagar-api](https://github-readme-stats.vercel.app/api/pin/?username=andreygiordane&repo=contas-pagar-api&theme=transparent&bg_color=0d0d1a&title_color=9d71fb&text_color=c4b5fd&icon_color=9d71fb&border_color=9d71fb40&border_radius=12)](https://github.com/andreygiordane/contas-pagar-api)
+Acesso remoto de baixa latência com conexão **P2P via WebRTC**: servidor de sinalização em Node.js, motor de captura em Python (aiortc) e visualizador em Electron. Mouse e teclado trafegam por DataChannel.
 
-**O que resolve:** O controle financeiro pessoal e empresarial com uma API backend robusta, escalável e bem documentada.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
-**Como funciona:**
-- API REST construída com **Spring Boot 3** seguindo padrões profissionais (Controller / Service / Repository)
-- Persistência de dados com **PostgreSQL** e gerenciamento de schema via migrations
-- Endpoints para criação, listagem, atualização e exclusão de contas com filtros por período
-- Arquitetura preparada para integração com qualquer frontend ou aplicativo móvel
+  </td>
+    <td width="50%" valign="top">
 
-**Stack completa:**
+#### 💸 [contas-pagar-api](https://github.com/andreygiordane/contas-pagar-api)
+
+API REST para gestão de contas a pagar, organizada em camadas Controller / Service / Repository, com persistência em banco relacional.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
----
+  </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🔒 Em desenvolvimento (repositórios privados)</b></summary>
+  <br/>
+
+| Projeto | Descrição |
+|:--|:--|
+| **Lê+** | Leitor de ebooks para Android (EPUB, PDF, MOBI, AZW3) com narração neural que funciona sem internet |
+| **Gestor ERP** | ERP modular para clínica: financeiro, convênios, estoque, compras, vendas e painel online para gestores |
+| **The Box ERP** | ERP comercial para faturamento, clientes e estoque |
+
+</details>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## GitHub Analytics
+## Atividade
 
 <div align="center">
-
-<br/>
 
 <a href="https://github.com/andreygiordane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreygiordane&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=9d71fb&icon_color=9d71fb&text_color=c4b5fd&ring_color=9d71fb&border_radius=12"/>
-</a>&nbsp;
-<a href="https://github.com/andreygiordane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreygiordane&layout=compact&theme=transparent&hide_border=true&bg_color=0d0d1a&title_color=9d71fb&text_color=c4b5fd&border_radius=12&langs_count=6"/>
+  <img src="https://streak-stats.demolab.com?user=andreygiordane&theme=transparent&hide_border=true&ring=9d71fb&fire=9d71fb&currStreakLabel=9d71fb&sideLabels=8b949e&dates=8b949e&currStreakNum=9d71fb&sideNums=9d71fb&locale=pt_BR" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=andreygiordane&theme=transparent&hide_border=true&background=0d0d1a&stroke=9d71fb&ring=9d71fb&fire=ff6b6b&currStreakLabel=9d71fb&sideLabels=c4b5fd&dates=c4b5fd&sideNums=ffffff&currStreakNum=ffffff&border_radius=12"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreygiordane&bg_color=0d0d1a&color=9d71fb&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&border_radius=12" width="94%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreygiordane/andreygiordane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreygiordane/andreygiordane/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/andreygiordane/andreygiordane/output/github-contribution-grid-snake.svg" alt="Contribuições" width="100%"/>
+</picture>
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## Conquistas
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=andreygiordane&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## Contato
-
-<div align="center">
-
-<br/>
-
-<a href="https://linkedin.com/in/andreygiordane">
-  <img src="https://img.shields.io/badge/LinkedIn-Andrey%20Giordane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://andreygiordane.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-andreygiordane.github.io-9d71fb?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117"/>
-</a>
-
-<br/><br/>
-
-<sub>Aberto a colaborações, feedback de código e oportunidades. Me chama no LinkedIn.</sub>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:0c0a2e,80:12063a,100:0d1117&height=120&section=footer&text=Akazure%20%C2%B7%20andreygiordane&fontSize=20&fontColor=9d71fb&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d71fb,50:4c1d95,100:0c0a2e&height=110&section=footer" width="100%" alt=""/>
